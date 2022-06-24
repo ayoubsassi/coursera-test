@@ -1,0 +1,42 @@
+#header-nav,.row{
+	background-color: lightgrey;
+}
+
+
+#first{
+	
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial,serif;
+	margin:5px auto 40px auto;
+	
+}
+.navbar-brand{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: arial,serif;
+	margin-top: 7px;
+	color: black !important;
+	}
+
+.navbar-brand .navbar-default{
+	color:black ;
+}
+
+#second{
+font-weight: bold;
+margin-bottom: 15px;
+font-size: 20px;
+}
+
+.container-fluid{
+	margin: auto 50px auto 50px;
+}
+
+.icon-bar{
+	background-color: black !important;
+}
+
+.navbar-toggle{
+	border-color: black !important;
+}
